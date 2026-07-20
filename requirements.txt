@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+weaviate-client
+sentence-transformers
+pandas
+ollama
