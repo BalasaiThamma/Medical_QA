@@ -439,7 +439,7 @@ This project demonstrates:
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 - Sentence Transformers
 - Weaviate
